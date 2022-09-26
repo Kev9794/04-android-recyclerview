@@ -9,4 +9,156 @@
 
     <string name="hello_first_fragment">Hello first fragment</string>
     <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+
+    <string name="gnocchi_name">Chorizo and mozzarella gnocchi bake</string>
+    <string name="gnocchi_description">Upgrade cheesy tomato pasta with gnocchi, chorizo and mozzarella for a comforting bake that makes an excellent midweek meal</string>
+    <string name="gnocchi_details"><b>Ingredients</b>
+        \n
+        1 tbsp olive oil
+        \n
+        1 onion , finely chopped
+        \n
+        2 garlic cloves , crushed
+        \n
+        120g chorizo , diced
+        \n
+        2 x 400g cans chopped tomatoes
+        \n
+        1 tsp caster sugar
+        \n
+        600g fresh gnocchi
+        \n
+        125g mozzarella ball, cut into chunks
+        \n
+        small bunch of basil , torn
+        \n
+        green salad , to serve
+        \n\n
+    <b>Directions</b>
+        \n
+        1. Heat the oil in a medium pan over a medium heat. Fry the onion and garlic for 8-10 mins until soft. Add the chorizo and fry for 5 mins more. Tip in the tomatoes and sugar, and season. Bring to a simmer, then add the gnocchi and cook for 8 mins, stirring often, until soft. Heat the grill to high.
+        \n
+        2. Stir ¾ of the mozzarella and most of the basil through the gnocchi. Divide the mixture between six ovenproof ramekins, or put in one baking dish. Top with the remaining mozzarella, then grill for 3 mins, or until the cheese is melted and golden. Season, scatter over the remaining basil and serve with green salad.
+    </string>
+    <string name="pumpkin_pasta_name">Ursulas pumpkin pasta</string>
+    <string name="pumpkin_pasta_description">Mozzarella and pumpkin liven up pasta in this delicious Italian recipe by Ursula Ferrigno</string>
+    <string name="pumpkin_pasta_details"><b>Ingredients</b>
+        \n
+        2 garlic cloves , crushed
+        \n
+        3 tbsp olive oil
+        \n
+        125g ball mozzarella , drained and roughly chopped
+        \n
+        50g unsalted butter , softened
+        \n
+        small handful sage leaves, plus extra to serve
+        \n
+        grated zest and juice of 1 unwaxed lemon
+        \n
+        500g/1lb 2oz piece pumpkin , unpeeled weight
+        \n
+        300g conchiglie pasta (shells)
+        \n
+        85g parmesan , finely grated
+        \n\n
+    \n\n<b>Directions</b>
+        \n
+        1. Soften the garlic in 1 tbsp of the olive oil and leave to cool slightly. Put the mozzarella, butter, garlic, sage, lemon zest and juice into a food processor. Season and blend to a coarse paste, scraping down the sides with a spatula a few times. Transfer the paste to a sheet of parchment paper or cling film and roll into a cylinder. Chill for 30 mins or until firm enough to slice.
+        \n
+        2. Heat oven to 200C/fan 180C/gas 6. Pour remaining oil into a roasting tin and heat in the oven for 5 mins. Meanwhile, using a small sharp knife, peel the pumpkin, remove the seeds and cut flesh into 2cm cubes. Toss it in the hot oil, and season if you wish. Roast for 25-30 mins, turning occasionally.
+        \n
+        3. Cook the pasta according to pack instructions. Drain, return to the pan and tip in the pumpkin and parmesan. Slice or chop the mozzarella butter and toss into the hot pasta. Divide between 4 bowls, top with sage and serve.
+    </string>
+    <string name="cheese_gnocchi_name">Blue cheese gnocchi</string>
+    <string name="cheese_gnocchi_description">Creamy and soothing, this warming bake makes a great standby for friends and family</string>
+    <string name="cheese_gnocchi_details"><b>Ingredients</b>
+        \n
+        500g fresh gnocchi
+        \n
+        250g bag baby spinach
+        \n
+        125g ball mozzarella , drained and roughly chopped
+        \n
+        100ml oz crème fraîche
+        \n
+        4 tbsp grated parmesan
+        \n
+        100g soft blue cheese
+        \n\n
+    \n\n<b>Directions</b>
+        \n
+        1. Cook the gnocchi in a large pan of boiling water according to pack instructions. Plunge the spinach into the same pan, then immediately drain through a colander and shake off any excess water.
+        \n
+        2. Put the crème fraîche in a small ovenproof dish with the grated parmesan. Add the hot, drained gnocchi and spinach and give everything a good stir. Crumble the blue cheese over and season with ground pepper.
+        \n
+        3. Slide the dish under a hot grill until the cheese is bubbling and golden. Serve immediately.
+    </string>
+    <string name="chicken_pasta_name">Chicken pasta bake</string>
+    <string name="chicken_pasta_description">Enjoy this gooey cheese and chicken pasta bake for the ultimate weekday family dinner. Serve straight from the dish with a dressed green salad</string>
+    <string name="chicken_pasta_details"><b>Ingredients</b>
+        \n
+        4 tbsp olive oil
+        \n
+        1 onion , finely chopped
+        \n
+        2 garlic cloves , crushed
+        \n
+        2 x 400g cans chopped tomatoes
+        \n
+        6 tbsp mascarpone
+        \n
+        1 tsp chilli flakes
+        \n
+        4 skinless chicken breasts, sliced into strips
+        \n
+        300g penne
+        \n
+        70g mature cheddar , grated
+        \n
+        50g grated mozzarella
+        \n
+        small bunch of parsley , finely chopped
+        \n\n
+\n\n<b>Directions</b>
+        \n
+        1. Heat 2 tbsp of the oil in a pan over a medium heat and fry the onion gently for 10-12 mins. Add the garlic and chilli flakes and cook for 1 min. Tip in the tomatoes and sugar and season to taste. Simmer uncovered for 20 mins or until thickened, then stir through the mascarpone.
+        \n
+        2. Heat 1 tbsp of oil in a non-stick frying pan. Season the chicken and fry for 5-7 mins or until the chicken is cooked through.
+        \n
+        3. Heat the oven to 220C/200C fan/gas 7. Cook the penne following pack instructions. Drain and toss with the remaining oil. Tip the pasta into a medium sized ovenproof dish. Stir in the chicken and pour over the sauce. Top with the cheddar, mozzarella and parsley. Bake for 20 mins or until golden brown and bubbling.
+    </string>
+    <string name="cauliflower_soup_name">Cauliflower soup</string>
+    <string name="cauliflower_soup_description">Throw together this comforting and creamy cauliflower soup for lunch or a light supper. It\'s perfect topped with parsley and served with crusty bread</string>
+    <string name="cauliflower_soup_details"><b>Ingredients</b>
+        \n
+        1 large cauliflower (1.5kg), cut into florets
+        \n
+        1 tbsp ground cumin
+        \n
+        2 tbsp olive oil , plus extra for drizzling
+        \n
+        4 thyme sprigs
+        \n
+        1 onion , finely chopped
+        \n
+        1 celery stick, finely chopped
+        \n
+        1 garlic clove , crushed
+        \n
+        750-850ml veg or chicken stock
+        \n
+        100ml single cream
+        \n
+        small bunch of parsley , finely chopped
+        \n\n
+    \n\n<b>Directions</b>
+        \n
+        1. Heat the oven to 220C/200C fan/gas 7. Toss the cauliflower florets in a roasting tin with 1 tbsp olive oil, the cumin and the thyme. Roast for 15 mins or until golden and tender. Discard the thyme.
+        \n
+        2. Heat the remaining oil in a saucepan with the onion and celery and fry over a medium heat for 10 mins or until softened. Add the garlic and cook for 1 min. Stir through most of the cauliflower, reserving some to top the soup with later. Add 750ml of the stock to the pan and bring to a simmer. Cook for 10 mins.
+        \n
+        3. Blitz the soup until smooth using a hand blender or food processor. Stir through the cream and season to taste. Add extra stock if you like your soup a little thinner. Ladle into bowls and top with the parsley, reserved cauliflower and an extra drizzle of olive oil.
+    </string>
+    <string name="recipe_image_desc">recipe image</string>
 </resources>
